@@ -17,5 +17,5 @@ Learnings from this projects:-
 * What is the component in Component in React and How to use it.
 * What is React-Router and How to use it.
 * How to Use ReactStrap.
-* How to Use React-Tosatify.
+* How to Use React-Tosatify.    
 
