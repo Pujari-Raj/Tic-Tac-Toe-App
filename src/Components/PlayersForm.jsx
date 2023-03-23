@@ -13,7 +13,7 @@ const PlayersForm = () => {
   const[isplayerformvisible, setIsPlayerFormVisible] = useState(true);
 
   const handleSubmit = (event) => {
-    alert('form data received');
+    // alert('form data received');
     event.preventDefault();
     setIsPlayerFormVisible(false);
 
