@@ -5,7 +5,7 @@ TechStack
 - CSS
 - ReactStrap
 
-Click on the below given link to get the preview of the page
+Click on the below given link to get the preview of the app
 
 <a href="https://tic-tac-toe-app-pujari.vercel.app/">
 
